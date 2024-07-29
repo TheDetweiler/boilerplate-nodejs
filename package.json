@@ -8,11 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@thedetweiler.github.com:TheDetweiler/boilerplate-nodejs.git"
+    "url": "git@github.com:TJatAccenture/boilerplate-nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "http": "^0.0.1-security",
     "mocha": "^10.7.0",
     "nyc": "^17.0.0"
   }
