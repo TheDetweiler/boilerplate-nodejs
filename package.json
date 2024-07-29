@@ -13,9 +13,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^9.8.0",
+    "gulp": "^5.0.0",
     "http": "^0.0.1-security",
     "istanbul": "^0.4.5",
     "mocha": "^10.7.0",
-    "nyc": "^17.0.0"
+    "nyc": "^17.0.0",
+    "webpack": "^5.93.0"
   }
 }
