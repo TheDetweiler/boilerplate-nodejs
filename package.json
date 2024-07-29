@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "http": "^0.0.1-security",
+    "istanbul": "^0.4.5",
     "mocha": "^10.7.0",
     "nyc": "^17.0.0"
   }
